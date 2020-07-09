@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+  <a href="https://www.brianhhough.netlify.app">
+    <img alt="Gatsby" src="https://images.squarespace-cdn.com/content/571989b0d51cd4ebf04b48fd/1572217990351-6UB4NY8ZCQ7VQEVU8B7D/BRIAN+H.+HOUGH+-+LOGO.png?content-type=image%2Fpng" width="60" />
   </a>
 </p>
 <h1 align="center">
