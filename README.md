@@ -5,8 +5,11 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Brian H. Hough | Tech Portfolio
 </h1>
+<p align="center">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status)](https://app.netlify.com/sites/brianhhough/deploys)
+</p>
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
