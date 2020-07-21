@@ -7,7 +7,7 @@
   Brian H. Hough | Tech Portfolio
 </h1>
 <div align = "center">
-[!][Netlify Status](https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status)](https://app.netlify.com/sites/brianhhough/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status)](https://app.netlify.com/sites/brianhhough/deploys)
 </div>
 
 <h1> 🎨 My Website Theme </h1>
