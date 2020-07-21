@@ -1,0 +1,25 @@
+{
+  "componentChunkName": "component---src-templates-tag-js",
+  "path": "/coding/tags/open-source/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "totalCount": 1,
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Hacktoberfest 2019",
+                "description": "Digital Ocean's 2019 open source hackathon",
+                "date": "2019-10-03",
+                "slug": "/coding/hacktoberfest2019",
+                "tags": ["Hackathon", "OpenSource"]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "tag": "OpenSource" }
+  }
+}

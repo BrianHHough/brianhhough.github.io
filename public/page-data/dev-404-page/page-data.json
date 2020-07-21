@@ -1,1 +1,27 @@
-{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"path":"/404/"},{"path":"/"},{"path":"/page-2/"},{"path":"/using-typescript/"},{"path":"/404.html"}]}},"pageContext":{}}}
+{
+  "componentChunkName": "component---cache-dev-404-page-js",
+  "path": "/dev-404-page/",
+  "result": {
+    "data": {
+      "allSitePage": {
+        "nodes": [
+          { "path": "/coding/BlockchainDeveloperND" },
+          { "path": "/coding/hacktoberfest2019" },
+          { "path": "/coding/ETHBoston" },
+          { "path": "/coding/tags/blockchain/" },
+          { "path": "/coding/tags/ethereum/" },
+          { "path": "/coding/tags/hackathon/" },
+          { "path": "/coding/tags/open-source/" },
+          { "path": "/coding/tags/solidity/" },
+          { "path": "/404/" },
+          { "path": "/allprojects/" },
+          { "path": "/coding/" },
+          { "path": "/coding/tags/" },
+          { "path": "/" },
+          { "path": "/404.html" }
+        ]
+      }
+    },
+    "pageContext": {}
+  }
+}
