@@ -1,0 +1,163 @@
+{
+  "componentChunkName": "component---src-pages-allprojects-js",
+  "path": "/allprojects/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-06-26",
+                "title": "Real Estate Marketplace",
+                "tech": ["Truffle", "OpenZeppelin", "Solidity"],
+                "github": "https://github.com/BrianHHough/Real-Estate-Marketplace",
+                "external": "https://rinkeby.opensea.io/assets/intrestellar-real-estate-marketplace",
+                "ios": null,
+                "android": null,
+                "company": "Udacity"
+              },
+              "html": "<p>A decentralized real estate marketplace built on the Rinkeby Ethereum blockchain network. A token was minted to verify ownership of the properties on the blockchain and a verification system was created with zk-SNARKs to prove ownership without revealing specific information on the property.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-05-20",
+                "title": "FlightSurety",
+                "tech": ["Truffle", "Solidity", "HTML", "CSS"],
+                "github": "https://github.com/BrianHHough/FlightSurety",
+                "external": "https://github.com/BrianHHough/FlightSurety",
+                "ios": null,
+                "android": null,
+                "company": ""
+              },
+              "html": "<p>A decentralized application for flight delay insurance that uses oracles to provide flight status information for the contract. It's built with Truffle, OpenZeppelin, Solidity, JavaScript, HTML, and CSS.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-03-15",
+                "title": "CoronaTracker",
+                "tech": ["React", "Blockstack", "MongoDB"],
+                "github": "https://github.com/COVID-19-electronic-health-system/Corona-tracker",
+                "external": "https://coronatracker.me",
+                "ios": "http://coronatrackerv1.s3-website-us-east-1.amazonaws.com/",
+                "android": null,
+                "company": "CoronaTracker"
+              },
+              "html": "<p>CoronaTracker is a progressive web application that lets users monitor and track their COVID-19 symptoms and health information while learning about the virus. The daily symptom tracker has both quantiative and qualitiative questions, and a flashcards section provides quick ways to learn about COVID. The app was featured in Decrypt, Innovative@BU, and more.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020-03-15",
+                "title": "CoronaTracker",
+                "tech": ["React", "Blockstack", "MongoDB"],
+                "github": "https://github.com/COVID-19-electronic-health-system/Corona-tracker",
+                "external": "https://coronatracker.me",
+                "ios": null,
+                "android": null,
+                "company": "CoronaTracker"
+              },
+              "html": "<p>CoronaTracker is a progressive web application that lets users monitor and track their COVID-19 symptoms and health information while learning about the virus with a daily symptom tracker and a flashcards section for to learn about COVID.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-09-06",
+                "title": "ETHBoston",
+                "tech": ["Solidity", "OpenZeppelin", "Truffle", "Aztec"],
+                "github": "https://github.com/brianhhough",
+                "external": "http://eth.boston",
+                "ios": null,
+                "android": null,
+                "company": null
+              },
+              "html": "<p>The leading minds in the cryptocurrency space joined over 400 hackers from around the world to collaborate together on decentralized applications using Ethereum. With an exponential increase in adoption, developer interest, and other teams building on top of Ethereum, there has never been a better time to be a part of the community, building Web 3.0.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-06-15",
+                "title": "SportBLX",
+                "tech": ["Balsamiq", "Figma", "Photoshop"],
+                "github": "",
+                "external": "https://sportblx.com/",
+                "ios": null,
+                "android": null,
+                "company": "SportBLX"
+              },
+              "html": "<p>An investment platform that's turning athletes and sports franchises into investable asset classes. I worked closely with designers and the management team to lead the design, development, and documentation of the company's investment platform and portal, as well as designed weekly wireframes and mockups for the tech team to fuel the development of the platform.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2019-01-25",
+                "title": "Google Arts & Culture",
+                "tech": ["Google UI", "GoogleEarth", "Photoshop"],
+                "github": "",
+                "external": "https://artsandculture.google.com/partner/honoring-nations",
+                "ios": null,
+                "android": null,
+                "company": "Harvard Kennedy School"
+              },
+              "html": "<p>In a partnership between the Harvard Kennedy School's Project on American Indian Economic Development (HPAIED) and Google Arts &#x26; Culture, I helped with building digital, 3D, and virtually-immersive exhibits on Google's platform. The exhibits covered topics from government performance to community/economic development and serve as a toolkit for global government best practices.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018-12-29",
+                "title": "StarNotary Service",
+                "tech": ["JavaScript", "Truffle", "HTML", "CSS"],
+                "github": "https://github.com/BrianHHough/StarNotary_ERC721_Dapp",
+                "external": "https://github.com/BrianHHough/StarNotary_ERC721_Dapp",
+                "ios": null,
+                "android": null,
+                "company": null
+              },
+              "html": "<p>An Ethereum-based dapp that creates a star notary service. I minted an ERC-721 token, INTX, and wrote smart contracts to allow for the buying, selling, and exchange of stars on the Rinkeby blockchain network.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017-05-20",
+                "title": "Ethereum Supply Chain Tracking Dapp",
+                "tech": ["JavaScript", "Truffle", "HTML", "CSS"],
+                "github": "https://github.com/BrianHHough/ethereum-supply-chain-tracking-dapp",
+                "external": "https://github.com/BrianHHough/ethereum-supply-chain-tracking-dapp",
+                "ios": null,
+                "android": null,
+                "company": "Udacity"
+              },
+              "html": "<p>A DApp supply chain solution to prove the authenticity of coffee by leveraging the transparency, traceability and efficiency of the Ethereum blockchain network. I built smart contracts that manage specific user permission controls as well as contracts that track and verify a product’s authenticity.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2016-11-01",
+                "title": "#ScreentimeBU",
+                "tech": ["STATA", "Excel", "PowerPoint", "Word"],
+                "github": "",
+                "external": "https://sites.bu.edu/demsconference/past-conferences/screentime-bu-2019/",
+                "ios": null,
+                "android": "",
+                "company": "Boston University"
+              },
+              "html": "<p><code class=\"language-text\">#ScreentimeBU2019</code> is the yearly, peer-reviewed conference organized by the Emerging Media Studies graduate program of Boston University's College of Communication. The theme of this year's conference was the \"Borderless World: Redefining Human Connections.\" My research presentation focused around a content analysis of 2018 Congressional websites and the dialogic loops of communication that are and are not utilized across 44 variables spanning 5 quantifiable constructs.</p>"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  }
+}

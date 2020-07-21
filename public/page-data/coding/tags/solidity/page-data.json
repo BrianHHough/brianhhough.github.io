@@ -1,0 +1,25 @@
+{
+  "componentChunkName": "component---src-templates-tag-js",
+  "path": "/coding/tags/solidity/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "totalCount": 1,
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Blockchain Developer Nanodegree [Udacity]",
+                "description": "Certification program for building on and deploying full-stack applications on the blockchain.",
+                "date": "2020-06-30",
+                "slug": "/coding/BlockchainDeveloperND",
+                "tags": ["Blockchain", "Solidity"]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "tag": "Solidity" }
+  }
+}

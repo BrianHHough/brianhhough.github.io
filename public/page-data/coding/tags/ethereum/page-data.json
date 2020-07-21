@@ -1,0 +1,25 @@
+{
+  "componentChunkName": "component---src-templates-tag-js",
+  "path": "/coding/tags/ethereum/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "totalCount": 1,
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "title": "ETHBoston",
+                "description": "Accepted to hack at ETHGlobal's ETHBoston hackathon with hackers from around to world to build decentralized applications using Ethereum.",
+                "date": "2019-09-06",
+                "slug": "/coding/ETHBoston",
+                "tags": ["Hackathon", "Ethereum"]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": { "tag": "Ethereum" }
+  }
+}

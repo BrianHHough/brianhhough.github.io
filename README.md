@@ -1,15 +1,27 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.brianhhough.netlify.app">
+<div align="center">
+  <a href="https://www.brianhhough.tech">
     <img alt="Gatsby" src="https://images.squarespace-cdn.com/content/571989b0d51cd4ebf04b48fd/1572217990351-6UB4NY8ZCQ7VQEVU8B7D/BRIAN+H.+HOUGH+-+LOGO.png?content-type=image%2Fpng" width="60" />
   </a>
-</p>
+</div>
 <h1 align="center">
   Brian H. Hough | Tech Portfolio
 </h1>
-
+<div align = "center">
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status)](https://app.netlify.com/sites/brianhhough/deploys)
+</div>
 
+<h1> 🎨 My Website Theme </h1>
+| Color Name         | Hexadecimal Code                                                   |
+| ------------------ | ------------------------------------------------------------------ |
+| Gold               | ![#fcd663](https://via.placeholder.com/10/fcd663?text=+) `#fcd663` |
+| Navy               | ![#101b3a](https://via.placeholder.com/10/101b3a?text=+) `#101b3a` |
+| Light Navy         | ![#2b4071](https://via.placeholder.com/10/2b4071?text=+) `#2b4071` |
+| Lightest Navy      | ![#6a8bc1](https://via.placeholder.com/10/6a8bc1?text=+) `#6a8bc1` |
+| Turquoise          | ![#498ab0](https://via.placeholder.com/10/498ab0?text=+) `#498ab0` |
+| Light Turquoise    | ![#74afd1](https://via.placeholder.com/10/74afd1?text=+) `#74afd1` |
+| Lightest Turquoise | ![#a4cde5](https://via.placeholder.com/10/a4cde5?text=+) `#a4cde5` |
+| White              | ![#f9fafb](https://via.placeholder.com/10/f9fafb?text=+) `#f9fafb` |
+| Black              | ![#090909](https://via.placeholder.com/10/090909?text=+) `#090909` |
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 

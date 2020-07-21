@@ -1,0 +1,19 @@
+{
+  "componentChunkName": "component---src-pages-coding-tags-js",
+  "path": "/coding/tags/",
+  "result": {
+    "data": {
+      "site": { "siteMetadata": { "title": "Brian H. Hough | Apps, Websites, UI/UX" } },
+      "allMarkdownRemark": {
+        "group": [
+          { "fieldValue": "Blockchain", "totalCount": 1 },
+          { "fieldValue": "Ethereum", "totalCount": 1 },
+          { "fieldValue": "Hackathon", "totalCount": 2 },
+          { "fieldValue": "OpenSource", "totalCount": 1 },
+          { "fieldValue": "Solidity", "totalCount": 1 }
+        ]
+      }
+    },
+    "pageContext": {}
+  }
+}
