@@ -7,8 +7,11 @@
   Brian H. Hough | Tech Portfolio
 </h1>
 <div align = "center">
-![Netlify Status](https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status)](https://app.netlify.com/sites/brianhhough/deploys)
+  <a href="https://app.netlify.com/sites/brianhhough/deploys" target="_blank">
+  <img src="https://api.netlify.com/api/v1/badges/f101d472-b220-4fad-8b2c-185f68bb979f/deploy-status" alt="Netlify Status" />
+  </a>
 </div>
+
 
 <h1> 🎨 My Website Theme </h1>
 | Color Name         | Hexadecimal Code                                                   |
